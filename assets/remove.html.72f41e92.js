@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-004e8bf1","path":"/using/remove.html","title":"Remove locales","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1656530365000},"filePathRelative":"using/remove.md"}');export{e as data};

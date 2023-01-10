@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-08a5d2dc","path":"/installation/","title":"Installation","lang":"en-US","frontmatter":{},"excerpt":"","headers":[{"level":2,"title":"Upgrade","slug":"upgrade","link":"#upgrade","children":[]}],"git":{"updatedTime":1666823251000},"filePathRelative":"installation/index.md"}');export{e as data};

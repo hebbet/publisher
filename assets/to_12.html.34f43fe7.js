@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-dd61597a","path":"/installation/upgrade/to_12.html","title":"To 12.x from 11.x","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1642797147000},"filePathRelative":"installation/upgrade/to_12.md"}');export{t as data};

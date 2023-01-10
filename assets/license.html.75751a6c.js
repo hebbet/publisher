@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fdb0fa9e","path":"/license.html","title":"MIT License","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1673378687000},"filePathRelative":"license.md"}');export{e as data};

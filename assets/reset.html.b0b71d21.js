@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-68dc0f64","path":"/using/reset.html","title":"Reset locales","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1656530365000},"filePathRelative":"using/reset.md"}');export{e as data};

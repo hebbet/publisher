@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1556533c","path":"/features/smart-punctuation.html","title":"Smart Punctuation","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1673378687000},"filePathRelative":"features/smart-punctuation.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-20c72d88","path":"/using/add.html","title":"Add locales","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1642797147000},"filePathRelative":"using/add.md"}');export{e as data};

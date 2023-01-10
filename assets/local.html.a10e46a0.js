@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1a4628d6","path":"/plugins/local.html","title":"Local Plugins","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1643056640000},"filePathRelative":"plugins/local.md"}');export{e as data};
